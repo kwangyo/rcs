@@ -21,7 +21,7 @@ nav {
   display: flex;
   justify-content: center;
   position: relative;
-  background: linear-gradient(90deg, #aadd3b, #20e8e8, #3450d3, #20e8e8, #aadd3b);
+  background: linear-gradient(90deg, #aadd3b, #32c8dc, #C8BFE7, #32c8dc, #aadd3b);
 }
 
 ul, li {
@@ -79,6 +79,11 @@ ul, li {
  font-weight: bold;
  color: yellow;
 }
+
+#chos {
+  align-items: left;
+}
+
 
 section {
   column-width: 15em;
